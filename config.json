@@ -1,0 +1,41 @@
+{
+  "ownerNumber": [
+    "6283153305709@s.whatsapp.net",
+    "6283842204546@s.whatsapp.net",
+    "628388570594@s.whatsapp.net"
+  ],
+  "ownerName": "YudaMods",
+  "instagram": "https://instagram.com/yudamods",
+  "gcwa": "https://chat.whatsapp.com/JsXKjrkkd9NIXEb5cMKHWz",
+  "website": "yudamods.com",
+  "gmail": "yudamodz@gmail.com",
+  "botName": "YudaMods Bot",
+  "footer": "© 𝚈𝚞𝚍𝚊𝙼𝚘𝚍𝚜-𝙼𝚍",
+  "sessionName": "session",
+  "fotoDonasi": "./dana.jpg",
+  "saweria": "https://saweria.co/yudamods",
+  "trakteer": "https://trakteer.id/yudamods",
+  "pathimg": "https://telegra.ph/file/7f99008ffefc5bc05c5c7.jpg",
+  "gifmenu": "https://telegra.ph/file/4a0537cf962facc1d6c4f.mp4",
+  "BotKey": "FBUpx8r9TYDma4c",
+  "ZenzKey": "Your_Key",
+  "XznKey": "Your_Key",
+  "audio_di_bagian_menu": "./media/menu.mp3",
+  "audio_di_bagian_owner": "./media/owner.mp3",
+  "auto_welcomeMsg": false,
+  "auto_leaveMsg": false,
+  "antiViewOnce": false,
+  "grupOnly": false,
+  "antiDelete": false,
+  "autobio": false,
+  "anticall": false,
+  "autorespond": false,
+  "autoblok212": false,
+  "autoread": true,
+  "gamewaktu": 90,
+  "limitCount": 20,
+  "gcount": {
+    "prem": 1000,
+    "user": 15
+  }
+}
